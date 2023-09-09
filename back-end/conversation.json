@@ -1,0 +1,67 @@
+[{
+        "sender": "sender2",
+        "type": "text",
+        "content": "Hey, how’s it going? You having fun?",
+        "waiting_time": 0
+    },
+    {
+        "sender": "sender1",
+        "type": "text",
+        "content": "Oh man, you can’t imagine! It’s such an amazing city. I’ve also found this app. Please, don’t get me wrong, has nothing to do with other tourists apps.",
+        "waiting_time": 3000
+    },
+    {
+        "sender": "sender1",
+        "type": "text",
+        "content": "It has conversations of people telling about the city and the different places/atmospheres, it’s magical!",
+        "waiting_time": 2500
+    },
+    {
+        "sender": "sender2",
+        "type": "text",
+        "content": "What do you mean?",
+        "waiting_time": 1500
+    },
+    {
+        "sender": "sender1",
+        "type": "text",
+        "content": "So there are these two guys which are chatting to each other and they sort of give valuable information through the conversation. There are different chats with different topics, most of them are very interesting!",
+        "waiting_time": 3000
+    },
+    {
+        "sender": "sender1",
+        "type": "text",
+        "content": "I went at this place yesterday afternoon and saw the sunset, man you cannot believe the atmosphere, it became all red and beautiful! And I went there only by reading a conversation!",
+        "waiting_time": 3000
+    },
+    {
+        "sender": "sender1",
+        "type": "emphasis",
+        "content": "Look at this!",
+        "waiting_time": 1000
+    },
+    {
+        "sender": "sender1",
+        "type": "image",
+        "content": "Pasted image 20230711004351.jpg",
+        "waiting_time": 2000
+    },
+    {
+        "sender": "sender2",
+        "type": "text",
+        "content": "Yeah man, looks 🔥!",
+        "waiting_time": 1500
+    },
+    {
+        "sender": "sender1",
+        "type": "image",
+        "content": "Pasted image 20230711005137.jpg",
+        "waiting_time": 2000
+    },
+    {
+        "sender": "sender1",
+        "type": "text",
+        "content": "Hahaahahaha, man had to go again to this place, should bring you here too! Look at this",
+        "waiting_time": 2500
+    }
+]
