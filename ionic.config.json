@@ -1,0 +1,7 @@
+{
+  "name": "Blushko",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
